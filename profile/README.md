@@ -12,7 +12,7 @@ modern software solutions with clean architecture and solid engineering practice
 
 ## 🚀 What We Do
 
-At TagHris Technologies, we collaborate on academic and personal software projects, exploring technologies such as:
+At STHDigital, we collaborate on academic and personal software projects, exploring technologies such as:
 
 - 🖥️ Full-stack development with **.NET**, **Spring Boot**, and **React**
 - ☁️ **Cloud-native applications** and **DevOps** practices (CI/CD, Docker, GitHub Actions)
